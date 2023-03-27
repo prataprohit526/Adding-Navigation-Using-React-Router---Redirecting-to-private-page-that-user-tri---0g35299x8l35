@@ -25,7 +25,6 @@ const App = () => (
       <Route path="/about">
         <About />
       </Route>
-//<Route/>
       <Route>
         <NoMatch />
       </Route>
